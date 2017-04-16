@@ -1,0 +1,12 @@
+<litepal>
+    <dbname value="Repair_Weather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.repairweather.www.db.Province"/>
+        <mapping class="com.repairweather.www.db.City"/>
+        <mapping class="com.repairweather.www.db.County"/>
+    </list>
+
+</litepal>
